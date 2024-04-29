@@ -39,7 +39,7 @@ Register Number: 212222240071
     import cv2
     image=cv2.imread('Dipt_1.jpg',1)
     image=cv2.resize(image,(400,300))
-    cv2.imshow('Santhosh',image)
+    cv2.imshow('NAVIN',image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ``` 
